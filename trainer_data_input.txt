@@ -1,0 +1,69 @@
+1001
+Sanjay Ramaswamy
+1800
+Aggressive
+Sunday-08
+Tuesday-18
+Wednesday-16
+15
+1400
+10
+0
+
+1002
+Anita Chowdary
+2000
+Positional
+Monday-01
+Thursday-04
+Saturday-06
+10
+1900
+5
+2
+Amulya Ramasai
+1
+
+1003
+Rajesh Narwal
+1600
+Defensive
+Sunday-03
+Monday-01
+Wednesday-02
+5
+1500
+3
+2
+Sai Aditya
+2
+Sohel Ahmed
+3
+
+1004
+Priya Kumari
+2100
+Aggressive
+Friday-05
+Saturday-06
+Monday-01
+20
+2000
+8
+0
+
+1005
+Meera Joseph
+1950
+Positional
+Tuesday-02
+Thursday-04
+Sunday-00
+12
+1850
+6
+2
+David Raj
+4
+Ananya Nagalla
+5
